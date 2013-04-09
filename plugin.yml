@@ -1,0 +1,10 @@
+name: Unchant
+main: co.uk.keiranturner.Unchant.Unchant
+version: 1.1
+commands:
+  unchant:
+    description: Remove Enchants from the item in your hand
+    usage: /unchant (must be Player)
+permissions:
+    unchant.use:
+        description: Use /unchant command
